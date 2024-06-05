@@ -18,4 +18,4 @@ function vowelcount1(str) {
     return matches ? matches.length : 0;
 }
 
-console.log(vowelcount1("Hellllloooooo WOOOORLD"));
+console.log(vowelcount1("Hellllloooooo WOOOORLD")); 
