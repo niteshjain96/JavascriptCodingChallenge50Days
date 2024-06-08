@@ -18,7 +18,7 @@
 # Question 18 : Password Validation
 # Question 19 : Anagram
 # Question 20 : Find Missing Number
-# Question 21 : Flatten an Array
+# Question 21 : Flatten an Nested Array
 # Question 22 : Prime Number
 # Question 23 : Validate Parentheses
 # Question 24 : Fibonacci
